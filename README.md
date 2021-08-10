@@ -3,7 +3,7 @@
 ## WHAT
 
 * iOS App for Conversational Commerce 
-* Conveniently message the chamber of commerce and its participating neighborhood businesses questions such as... *"Please recommend me a birthday gift for a 5 yro who likes animals and sweet flavors for about $20"*... and recieve useful answers back
+* Conveniently message the chamber of commerce and its participating neighborhood businesses questions such as... **"Please recommend me a birthday gift for a 5 yro who likes animals and sweet flavors for about $20"**... and recieve useful answers back
 
 ## WHY
 
