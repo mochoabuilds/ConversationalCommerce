@@ -7,7 +7,7 @@
 
 ## WHY
 
-* Trade has relied on conversation for millennia. This iOS app makes the effort to know local businesses easier. The app also is a testbed for a neighborhood to get a peak at a market design that doesn't exist yet in a neighborhood.
+* Trade has relied on conversation for millennia. This iOS app makes the effort to know local businesses easier. The app is also a testbed for a neighborhood to get a peek at a market design that doesn't yet exist in their neighborhood.  Hopefully this approach provides a more integrated view of how humans might interact in the future (to design a more sustainable future as we live on a finite planet with biophysical limits). 
 
 ## FEATURE LIST
 
