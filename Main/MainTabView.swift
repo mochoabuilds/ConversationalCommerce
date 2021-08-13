@@ -1,6 +1,5 @@
 //
 //  MainTabView.swift
-//  SwiftUIChatTutorial
 //
 //  Created by Michael Valentino Ochoa on 8/12/21
 //
