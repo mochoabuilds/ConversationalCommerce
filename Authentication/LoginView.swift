@@ -1,6 +1,5 @@
 //
 //  LoginView.swift
-//  SwiftUIChatTutorial
 //
 //  Created by Michael Valentino Ochoa on 8/9/2021
 //
