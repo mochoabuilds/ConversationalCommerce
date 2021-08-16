@@ -38,7 +38,7 @@ struct ProfilePhotoSelectorView: View {
                 ImagePicker(image: $selectedImage)
             })
             
-            Text(profileImage == nil ? "Select a profile photo" : "Great! Tap below to continue")
+            Text(profileImage == nil ? "Select a profile photo" : "Alright! Tap below to continue")
                 .font(.system(size: 20, weight: .semibold))
             
             if let image = selectedImage {
